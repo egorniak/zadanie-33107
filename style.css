@@ -1,0 +1,18 @@
+body {
+    background-color: #faebd6;
+}
+h1 {
+    color: #ff0000;
+    font-size: 50px;
+} 
+.first-paragraphy {
+    color:#a42423;
+    font-size: 30px;
+}
+.second-paragraphy {
+    color:#00008f;
+    font-size: 30px;
+}
+h1, .first-paragraphy, .second-paragraphy {
+    margin-bottom: 50px;
+}
